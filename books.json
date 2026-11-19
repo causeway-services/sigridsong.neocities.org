@@ -1,0 +1,19 @@
+{
+  "author": "Sigrid Song",
+  "books": [
+    {
+      "manifest": "../../../../../../../../../engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-media-systems-engineering-services-section/services/public-fiction-media-services-section/content/books/ice-out/ebook.json",
+      "storefronts": [
+        {
+          "name": "Kindle (Amazon)",
+          "url": "https://www.amazon.com/dp/B0HLRR2KNZ"
+        },
+        {
+          "name": "561 Group",
+          "url": "https://shop.561.group/goods/ice-out"
+        }
+      ],
+      "launch": "../../../../../../../../../engineering-services-section/services/computer-engineering-services-section/services/computer-systems-engineering-services-section/services/computer-media-systems-engineering-services-section/services/public-fiction-media-services-section/data/records/launch-records/2026-09-27-ice-out-launch.json"
+    }
+  ]
+}
